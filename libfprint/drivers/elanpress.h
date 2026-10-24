@@ -120,5 +120,6 @@ static const FpIdEntry elanpress_id_table[] = {
   {.vid = ELANPRESS_VEND_ID, .pid = 0x0c6e, }, /* 04f3:0c6e Rog Flow x13 etc. */
   {.vid = ELANPRESS_VEND_ID, .pid = 0x0c4f, }, /* 04f3:0c4f Acer Aspire A515-45 */
   {.vid = ELANPRESS_VEND_ID, .pid = 0x0c63, }, /* 04f3:0c63 */
+  {.vid = ELANPRESS_VEND_ID, .pid = 0x0c3d, }, /* 04f3:0c3d */
   {.vid = 0, .pid = 0, },
 };
